@@ -312,7 +312,7 @@ A avaliação automatizada atingiu:
 | Nota mínima 1 a 10 | 10 |
 | Taxa de notas 10 | 100% |
 | Unsafe output rate | 0% |
-| Testes automatizados | 39 passed |
+| Testes automatizados | 48 passed |
 
 ---
 

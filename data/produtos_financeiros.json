@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cartao_bradesco_principal",
+    "nome": "Bradesco Principal",
+    "categoria": "cartao_credito_principal",
+    "publico": "Alta renda / segmento Principal",
+    "beneficios_resumidos": [
+      "Pontos Livelo que não expiram",
+      "Até 3 pontos por dólar, conforme regra pública do cartão",
+      "Acessos a salas VIP, conforme regra pública",
+      "Possibilidade de isenção de anuidade por gastos ou investimentos, conforme condições públicas"
+    ],
+    "indicado_para": "Cliente que busca cartão premium equilibrado, pontos, benefícios de viagem, serviços digitais e possibilidade de relacionamento Principal.",
+    "criterios_aderencia_mock": {
+      "viagens": "media_ou_alta",
+      "pontos_milhas": "media_ou_alta",
+      "gasto_mensal_cartao": "alto",
+      "relacionamento_investimentos": "relevante"
+    },
+    "guardrail": "Não garante aprovação, limite, isenção ou contratação. Confirmar condições nos canais oficiais.",
+    "fonte_publica": "https://banco.bradesco/html/principal/cartoes/visaprincipal.html",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "visa_aeternum",
+    "nome": "Visa Aeternum",
+    "categoria": "cartao_credito_principal",
+    "publico": "Alta renda / segmento Principal",
+    "beneficios_resumidos": [
+      "4 pontos por dólar que não expiram, conforme página pública de cartões Principal",
+      "Acesso ilimitado às salas VIP e filas de raio-X, conforme página pública de cartões Principal",
+      "Isenção de anuidade por investimentos, conforme página pública de cartões Principal"
+    ],
+    "indicado_para": "Cliente com alto volume de viagens, interesse forte em salas VIP, benefícios internacionais e relacionamento de maior sofisticação.",
+    "criterios_aderencia_mock": {
+      "viagens": "alta",
+      "sala_vip": "alta",
+      "pontos_milhas": "alta",
+      "patrimonio": "elevado"
+    },
+    "guardrail": "Não garante aprovação, limite, isenção ou contratação. Confirmar condições nos canais oficiais.",
+    "fonte_publica": "https://banco.bradesco/html/principal/cartoes.html",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "the_platinum_card",
+    "nome": "The Platinum Card®",
+    "categoria": "cartao_credito_principal",
+    "publico": "Alta renda / segmento Principal",
+    "beneficios_resumidos": [
+      "Até 3 pontos por dólar que não expiram, conforme página pública de cartões Principal",
+      "Acesso ilimitado às salas VIP e filas de raio-X, conforme página pública de cartões Principal"
+    ],
+    "indicado_para": "Cliente que valoriza sofisticação, experiências premium, lifestyle, viagens e benefícios internacionais.",
+    "criterios_aderencia_mock": {
+      "lifestyle": "alto",
+      "viagens": "media_ou_alta",
+      "beneficios_premium": "alto"
+    },
+    "guardrail": "Não garante aprovação, limite, isenção ou contratação. Confirmar condições nos canais oficiais.",
+    "fonte_publica": "https://banco.bradesco/html/principal/cartoes.html",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "servicos_cartao",
+    "nome": "Serviços de Cartão",
+    "categoria": "servicos",
+    "itens": [
+      "2ª via de fatura",
+      "Parcelamento de fatura",
+      "Pix com cartão de crédito",
+      "Parcelamento de compras internacionais",
+      "Carteiras digitais"
+    ],
+    "indicado_para": "Usuários que buscam praticidade, controle e flexibilidade no uso do cartão.",
+    "guardrail": "Serviços e condições podem mudar. Confirmar no app, Internet Banking ou canais oficiais.",
+    "fonte_publica": "https://banco.bradesco/html/principal/cartoes.html",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "wealth_planning",
+    "nome": "Wealth Planning",
+    "categoria": "planejamento_patrimonial",
+    "indicado_para": "Cliente com patrimônio relevante, objetivos de sucessão, proteção familiar, planejamento tributário e organização patrimonial.",
+    "guardrail": "Tema educativo no protótipo. Em caso real, exige profissional qualificado, análise individual e canais oficiais.",
+    "fonte_publica": "https://banco.bradesco/html/principal/index.html",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "open_finance_mock",
+    "nome": "Open Finance Mockado",
+    "categoria": "dados_e_relacionamento",
+    "indicado_para": "Simular visão consolidada de relacionamento e ativos externos com consentimento fictício.",
+    "guardrail": "Open Finance real exige consentimento do cliente e integração regulada. Este projeto usa apenas simulação.",
+    "fonte_publica": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance",
+    "data_coleta": "2026-06-18"
+  },
+  {
+    "id": "seguranca_digital",
+    "nome": "Segurança Digital e Prevenção a Golpes",
+    "categoria": "seguranca",
+    "indicado_para": "Todos os usuários. A Ada deve educar sobre proteção de dados, canais oficiais e cuidado com golpes.",
+    "guardrail": "Nunca solicitar CPF, senha, cartão, CVV, fatura, extrato, conta ou dados reais.",
+    "fonte_publica": "Base de boas práticas do projeto",
+    "data_coleta": "2026-06-18"
+  }
+]

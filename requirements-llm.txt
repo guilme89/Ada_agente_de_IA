@@ -1,0 +1,7 @@
+# Dependências opcionais para uso de provedores reais de LLM.
+# O modo padrão/mock não precisa dessas bibliotecas.
+
+openai>=1.0.0
+anthropic>=0.40.0
+google-genai>=1.0.0
+python-dotenv>=1.0.0

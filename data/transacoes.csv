@@ -1,0 +1,49 @@
+﻿data,persona_id,descricao,categoria,valor,tipo,meio,cartao_relacionado,observacao
+2026-01-01,PRI-001,Saúde e bem-estar,saude,2502.76,saida,cartao_credito,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-01-02,PRI-001,Consultoria patrimonial,planejamento_patrimonial,12310.28,saida,cambio,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-01-08,PRI-001,Saúde e bem-estar,saude,2692.59,saida,transferencia,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-01-09,PRI-001,Cartão adicional familiar,cartao_adicional,9501.92,saida,debito_conta,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-01-10,PRI-001,Aporte em investimentos,investimentos,55747.46,saida,cambio,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-01-12,PRI-001,Aporte em investimentos,investimentos,38565.87,saida,debito_conta,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-01-12,PRI-001,Moradia e condomínio,moradia,8122.2,saida,investimento,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-01-14,PRI-001,Restaurante premium,lifestyle,1703.19,saida,transferencia,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-01-16,PRI-001,Saúde e bem-estar,saude,4907.17,saida,investimento,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-01-18,PRI-001,Compras internacionais,compras_internacionais,13980.99,saida,cartao_credito,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-01-22,PRI-001,Pró-labore,pro_labore,44244.01,receita,cartao_credito,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-01-31,PRI-001,Cartão adicional familiar,cartao_adicional,8021.4,saida,cambio,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-02-06,PRI-001,Pró-labore,pro_labore,41494.93,receita,debito_conta,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-02-09,PRI-001,Seguro de vida,protecao,9560.14,saida,investimento,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-02-11,PRI-001,Escola internacional,educacao_filhos,6620.05,saida,investimento,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-02-25,PRI-001,Compras internacionais,compras_internacionais,12542.72,saida,transferencia,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-02-28,PRI-001,Compras internacionais,compras_internacionais,9079.33,saida,cambio,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-03-07,PRI-001,Salário executivo,salario_executivo,114655.55,receita,transferencia,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-03-09,PRI-001,Câmbio turismo,cambio,15842.79,saida,transferencia,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-03-09,PRI-001,Restaurante premium,lifestyle,3613.84,saida,cartao_credito,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-03-10,PRI-001,Dividendos empresariais,dividendos,76462.4,receita,investimento,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-03-16,PRI-001,Salário executivo,salario_executivo,124197.8,receita,cambio,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-03-24,PRI-001,Seguro residencial,protecao,1466.19,saida,cartao_credito,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-03-24,PRI-001,Cartão adicional familiar,cartao_adicional,4113.4,saida,investimento,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-03-29,PRI-001,Doação/impacto social,impacto_social,1607.14,saida,cambio,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-03-29,PRI-001,Pró-labore,pro_labore,49704.06,receita,debito_conta,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-03-31,PRI-001,Saúde e bem-estar,saude,2180.41,saida,debito_conta,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-04-03,PRI-001,Moradia e condomínio,moradia,21861.41,saida,investimento,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-04-07,PRI-001,Consultoria patrimonial,planejamento_patrimonial,5268.95,saida,transferencia,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-04-08,PRI-001,Seguro de vida,protecao,9468.83,saida,cartao_credito,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-04-10,PRI-001,Hotel premium,viagens,16532.79,saida,cambio,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-04-12,PRI-001,Salário executivo,salario_executivo,122650.01,receita,cambio,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-04-26,PRI-001,Compras internacionais,compras_internacionais,13500.23,saida,investimento,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-04-27,PRI-001,Pró-labore,pro_labore,42194.5,receita,transferencia,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-05-01,PRI-001,Viagem internacional,viagens,58289.18,saida,transferencia,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-04,PRI-001,Cartão adicional familiar,cartao_adicional,5146.66,saida,cambio,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-05,PRI-001,Combustível e mobilidade,mobilidade,3425.95,saida,investimento,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-05,PRI-001,Doação/impacto social,impacto_social,2226.3,saida,debito_conta,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-05-07,PRI-001,Hotel premium,viagens,27253.07,saida,debito_conta,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-05-07,PRI-001,Câmbio turismo,cambio,28172.33,saida,cartao_credito,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-09,PRI-001,Restaurante premium,lifestyle,1571.47,saida,transferencia,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-05-09,PRI-001,Assinaturas e serviços digitais,servicos_digitais,1304.77,saida,debito_conta,Outro cartão premium,Transação fictícia para simulação de alta renda
+2026-05-10,PRI-001,Seguro residencial,protecao,1349.1,saida,cartao_credito,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-05-13,PRI-001,Dividendos empresariais,dividendos,112465.03,receita,transferencia,Visa Aeternum,Transação fictícia para simulação de alta renda
+2026-05-20,PRI-001,Pró-labore,pro_labore,55989.27,receita,investimento,Bradesco Principal,Transação fictícia para simulação de alta renda
+2026-05-25,PRI-001,Viagem internacional,viagens,32798.98,saida,cambio,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-30,PRI-001,Restaurante premium,lifestyle,1613.56,saida,cartao_credito,The Platinum Card®,Transação fictícia para simulação de alta renda
+2026-05-31,PRI-001,Seguro residencial,protecao,1148.68,saida,transferencia,Bradesco Principal,Transação fictícia para simulação de alta renda

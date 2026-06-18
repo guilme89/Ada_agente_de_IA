@@ -1,0 +1,6 @@
+﻿scenario_id,nome,viagens_ano,gasto_mensal,interesse_sala_vip,interesse_pontos,prioridade,segmento_atual,patrimonio_investivel,expected_card
+R001,Viajante premium,10,50000,Alta,Alta,viagem internacional e salas VIP,Principal,3000000,Visa Aeternum
+R002,Lifestyle premium,5,30000,Média,Média,experiências premium e lifestyle,Principal,1800000,The Platinum Card®
+R003,Equilíbrio e relacionamento,2,15000,Média,Alta,equilíbrio entre pontos e benefícios,Principal,700000,Bradesco Principal
+R004,Prime em evolução,3,18000,Média,Alta,isenção de anuidade e relacionamento,Prime,450000,Bradesco Principal
+R005,Baixa viagem e uso diário,0,8000,Baixa,Média,segurança digital e praticidade,Prime,200000,Bradesco Principal

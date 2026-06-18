@@ -1,0 +1,59 @@
+{
+  "persona_id": "PRI-001",
+  "nome_ficticio": "Cliente Orion Oliveira",
+  "segmento_atual": "Principal",
+  "segmento_alvo": "Principal",
+  "faixa_etaria": "70+",
+  "ciclo_vida": "Sucessão e legado",
+  "perfil_profissional": "Empresário(a) com empresa consolidada",
+  "setor_atividade": "Construção civil",
+  "fonte_renda_principal": "Aluguéis e dividendos",
+  "renda_mensal_estimada_mock": 183439,
+  "renda_familiar_mensal_mock": 278368,
+  "patrimonio_total_estimado_mock": 17019108,
+  "patrimonio_investivel_estimado_mock": 12363778,
+  "investimentos_bradesco_estimado_mock": 1366218,
+  "aporte_previsto_12m_mock": 2250400,
+  "perfil_investidor_mock": "Arrojado",
+  "tolerancia_risco": "Baixa",
+  "liquidez_necessaria": "Média",
+  "objetivos": {
+    "curto_prazo": "troca de veículo",
+    "medio_prazo": "planejar compra de imóvel",
+    "longo_prazo": "internacionalização de patrimônio",
+    "prioridade_planejamento": "Proteção familiar"
+  },
+  "cartoes": {
+    "cartao_atual_simulado": "The Platinum Card®",
+    "gasto_mensal_cartao_estimado_mock": 89614,
+    "viagens_internacionais_ano_mock": 10,
+    "interesse_sala_vip": "Alta",
+    "interesse_pontos_milhas": "Alta",
+    "interesse_isencao_anuidade": "Média",
+    "cartao_recomendado_ada": "Visa Aeternum",
+    "motivo_recomendacao_cartao": "Aderência alta por viagens, salas VIP, benefícios internacionais, alto relacionamento e potencial patrimonial."
+  },
+  "crm": {
+    "temperatura_lead": "Quente",
+    "score_potencial_principal_mock": 100,
+    "segmentacao_psicologica_mock": "Sofisticado internacional",
+    "estilo_decisao_mock": "Sensível a custo-benefício",
+    "risco_churn_mock": "Alto por relacionamento pulverizado",
+    "proximo_passo_sugerido": "Conduzir diagnóstico consultivo com roteiro Ada",
+    "observacao": "Perfil 100% fictício para teste da Ada."
+  },
+  "seguranca": {
+    "tipo_dado": "mockado",
+    "nao_contem": [
+      "cpf",
+      "telefone",
+      "email",
+      "conta",
+      "cartao",
+      "senha",
+      "fatura",
+      "extrato"
+    ],
+    "aviso": "Não usar como cadastro real."
+  }
+}
